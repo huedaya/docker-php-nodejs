@@ -1,5 +1,5 @@
 # Docker Image for PHP + NodeJs
-Original repo https://github.com/huedaya/php
+Original repo https://github.com/huedaya/php-nodejs
 
 ## How to run?
 Just as simple as run `docker-compose up -d` and you're ready to go on http://localhost:8080
